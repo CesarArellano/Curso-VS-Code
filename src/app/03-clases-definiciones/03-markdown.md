@@ -1,4 +1,4 @@
-# Tips
+# Tips s
 ```
 command + P : Markdown Open Preview
 command + P : Markdown Open Preview to the side
