@@ -12,7 +12,7 @@
 
 
 function holaMundo() {
-    return "Saludos a todos!"
+    return "Saludos a"
 }
 
 
