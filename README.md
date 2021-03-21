@@ -1,8 +1,8 @@
 # Curso de VSCode
 
-Un pequeño repositorio donde aprenderemos un par de trucos para trabajar rápidamente con Visual Studio Code.
+Un pequeño repositorio que contiene un par de trucos para trabajar rápidamente con Visual Studio Code.
 
-También hay un par de extensiones bastante útiles que les pueden servir.
+También hay un par de extensiones bastante útiles que pueden servir para cualquier proyecto.
 
 ## Extensiones
 
